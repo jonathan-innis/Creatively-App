@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "644349099233",
+    "project_id": "firebase-creatively"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644349099233:android:ae4ea36a22cbef2b",
+        "android_client_info": {
+          "package_name": "com.example.jonathan.creatively"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644349099233-phf3oqpbb1rahf1cv1u81vcj1r3mobl0.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "644349099233-7ivjqo77578kt6gc4sdedmhmd7v8kfu8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jonathan.creatively",
+            "certificate_hash": "39f6cdd50bffe19633bf3f6f1d64751f92e36474"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnE-HvIdoqmcO-lUe7ftztJ0wdcvmuJ00"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
